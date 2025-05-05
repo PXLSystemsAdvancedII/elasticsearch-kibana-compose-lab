@@ -114,6 +114,8 @@ curl http://localhost:9200/_cat/shards/distributed-index?v
 
 ### 3. Kibana Dashboard - Monitoring Cluster and Quorum
 
+![dashboard](dashboard.png)
+
 **Monitor cluster status:**
 1. Open Kibana at http://localhost:5601
 2. Navigate to **Stack Monitoring** (or click the monitoring icon ⚡)
