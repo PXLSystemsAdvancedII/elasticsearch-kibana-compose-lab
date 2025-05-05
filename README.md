@@ -26,7 +26,7 @@ This lab sets up a 3-node Elasticsearch cluster with Kibana for visualization:
          ┌─────────────────┴─────────────────┐
          │                                   │
     ┌────▼────┐          ┌─────────┐    ┌────▼────┐
-    │  es01   │◄────────▶│  es02   │◄──▶│  es03   │
+    │  es01   │◄───────▶│  es02   │◄──▶│  es03   │
     │ Master  │          │ Master  │    │ Master  │
     │ Data    │          │ Data    │    │ Data    │
     └─────────┘          └─────────┘    └─────────┘
